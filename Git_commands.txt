@@ -8,3 +8,4 @@ git branch -b <branch name> (eg. git branch -b branch1)
 
 
 git push origin:branch_name
+git push -force   #nitesh
